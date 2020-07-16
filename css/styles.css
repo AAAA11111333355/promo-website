@@ -13,7 +13,7 @@ h1 {
 .cwatch {
   background-color:  #659DAE;
   color: #fff;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .logo-image {
