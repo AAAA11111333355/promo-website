@@ -73,5 +73,9 @@ h1 {
   .pw-image {
     margin-left: 30%;
   }
+  .download-button {
+    margin: 5rem 0rem 2rem 5rem;
+
+  }
 
 }
