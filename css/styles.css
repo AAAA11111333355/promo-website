@@ -64,6 +64,14 @@ h1 {
 /* contact and details */
 
 .contact {
-  height: 45vh;
-  width: 100%;
+  /* height: 45vh;
+  width: 100%; */
+}
+
+@media (max-width: 1028px) {
+
+  .pw-image {
+    margin-left: 30%;
+  }
+
 }
